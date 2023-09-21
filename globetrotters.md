@@ -1,7 +1,6 @@
 # globetrotters
 * name: Miss Kiki's Class
 * description: Create a fast-paced maze game by programming a student to move through the crowded halls to collect assignments without being interrupted by a teacher trying to give them more work!
-* infoUrl: https://arcade.makecode.com
 * backgroundurl: /static/skillmap/backgrounds/class-comp.png
 * bannerurl: /static/skillmap/class/class.gif
 * primarycolor: #ff93c4
